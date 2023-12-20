@@ -1,4 +1,3 @@
-
 const express = require('express')  // this is for the import 
 const app = express()   // now app is the variable  
 const port = 4000
